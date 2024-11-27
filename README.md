@@ -18,7 +18,7 @@ If you'd like to run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/picture/astronomy-react-app.git
+   git clone https://github.com/Puxjee/astronomy-react-app.git
    ```
 
 2. Install dependencies:
